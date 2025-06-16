@@ -1,6 +1,6 @@
 # Hey, I'm Daniel D 👋
 
-### 💡 Something About Me
+### 💡 Something About Me - [Portfolio](https://daniel-d-portfolio.netlify.app/)
 
 I'm a **Software Developer** who builds responsive, scalable web applications with a focus on usability, performance, and end-to-end functionality.
 - 💻 I enjoy working across the stack from crafting clean, accessible UIs to designing and optimizing efficient, secure APIs and backend systems.
@@ -210,8 +210,8 @@ I'm always open to exploring new opportunities, engaging in meaningful collabora
     <a target="_blank" href="https://github.com/MrDanielD326">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
     </a>
-    <a target="_blank" href="https://drive.google.com/file/d/1FRI94pRwzVUkijwYlYm8vZQaP2kMXZQo/view">
-        <img src="https://img.icons8.com/?size=100&id=23877&format=png&color=000000" alt="GitHub" height="45" />
+    <a target="_blank" href="https://drive.google.com/file/d/1qNgV47XwvNDoaeiIMV-iO6mslZu-r1W8/view">
+        <img src="https://img.icons8.com/?size=100&id=23877&format=png&color=000000" alt="Resume" height="45" />
     </a>
 </p>
 
