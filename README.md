@@ -168,6 +168,11 @@ Here are a few selected projects that highlight my experience and capabilities a
 <table>
     <tr>
         <td style="border: none;">
+            <a target="_blank" href="https://github.com/MrDanielD326/Stoxian" target="_blank">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrDanielD326&repo=Stoxian&theme=tokyonight&show_description=false" alt="Stoxian Project">
+            </a>
+        </td>
+        <td style="border: none;">
             <a target="_blank" href="https://github.com/MrDanielD326/Tickets" target="_blank">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrDanielD326&repo=Tickets&theme=tokyonight&show_description=false" alt="Tickets Project">
             </a>
