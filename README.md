@@ -215,7 +215,7 @@ I'm always open to exploring new opportunities, engaging in meaningful collabora
     <a target="_blank" href="https://github.com/MrDanielD326">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
     </a>
-    <a target="_blank" href="https://drive.google.com/file/d/1FEjjpVZtRUhR455Md-grHBj_y_4bMf2l/view">
+    <a target="_blank" href="https://drive.google.com/file/d/1UeHsXXFcKj7D6UxKI2GllBu1OIlqF53M/view">
         <img src="https://img.icons8.com/?size=100&id=23877&format=png&color=000000" alt="Resume" height="45" />
     </a>
 </p>
