@@ -14,8 +14,7 @@ I'm a **Software Developer** who builds responsive, scalable web applications wi
 
 Here are some of the technologies I work with. My toolkit is continuously evolving as I stay current with industry trends and best practices.
 
-#### 🌐 Languages
-<p align="left">
+<p align="center">
     <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
     </a>
@@ -25,10 +24,6 @@ Here are some of the technologies I work with. My toolkit is continuously evolvi
     <a target="_blank" href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=python" alt="Python" />
     </a>
-</p>
-
-#### 🧑‍🎨 Frontend Development
-<p align="left">
     <a target="_blank" href="https://react.dev" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=react" alt="React" />
     </a>
@@ -50,10 +45,6 @@ Here are some of the technologies I work with. My toolkit is continuously evolvi
     <a target="_blank" href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
     </a>
-</p>
-
-#### 🛠️ Backend Development
-<p align="left">
     <a target="_blank" href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
     </a>
@@ -63,30 +54,18 @@ Here are some of the technologies I work with. My toolkit is continuously evolvi
     <a target="_blank" href="https://graphql.org" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" />
     </a>
-</p>
-
-#### 🧮 Databases
-<p align="left">
     <a target="_blank" href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
     </a>
         <a target="_blank" href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=mysql" alt="Mysql" />
     </a>
-</p>
-
-#### 🧬 Testing
-<p align="left">
     <a target="_blank" href="https://jestjs.io/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=jest" alt="Jest" />
     </a>
     <a target="_blank" href="https://www.cypress.io/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=cypress" alt="Cypress" />
     </a>
-</p>
-
-#### 💾 Version Control
-<p align="left">
     <a target="_blank" href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=git" alt="Git" />
     </a>
@@ -96,10 +75,6 @@ Here are some of the technologies I work with. My toolkit is continuously evolvi
     <a target="_blank" href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" />
     </a>
-</p>
-
-#### ☁️ DevOps & Cloud
-<p align="left">
     <a target="_blank" href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=aws" alt="Amazon Web Services" />
     </a>
@@ -109,24 +84,12 @@ Here are some of the technologies I work with. My toolkit is continuously evolvi
     <a target="_blank" href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
     </a>
-</p>
-
-#### ⌨️ Code Editor
-<p align="left">
     <a target="_blank" href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
     </a>
-</p>
-
-#### 🎨 Design
-<p align="left">
     <a target="_blank" href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
     </a>
-</p>
-
-#### 🔧 Tools & Environment
-<p align="left">
     <a target="_blank" href="https://www.postman.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
     </a>
