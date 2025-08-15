@@ -45,6 +45,9 @@ Here are some of the technologies I work with. My toolkit is continuously evolvi
     <a target="_blank" href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
     </a>
+    <a target="_blank" href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=sass" alt="Sass.js" />
+    </a>
     <a target="_blank" href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
     </a>
@@ -57,8 +60,14 @@ Here are some of the technologies I work with. My toolkit is continuously evolvi
     <a target="_blank" href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
     </a>
-        <a target="_blank" href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <a target="_blank" href="https://redux.js.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
+    </a>
+    <a target="_blank" href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=mysql" alt="Mysql" />
+    </a>
+    <a target="_blank" href="https://jquery.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=jquery" alt="jquery" />
     </a>
     <a target="_blank" href="https://jestjs.io/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=jest" alt="Jest" />
@@ -75,6 +84,13 @@ Here are some of the technologies I work with. My toolkit is continuously evolvi
     <a target="_blank" href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" />
     </a>
+        <a target="_blank" href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=githubactions" alt="Github Actions" />
+    </a>
+    </a>
+        <a target="_blank" href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" />
+    </a>
     <a target="_blank" href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=aws" alt="Amazon Web Services" />
     </a>
@@ -83,6 +99,15 @@ Here are some of the technologies I work with. My toolkit is continuously evolvi
     </a>
     <a target="_blank" href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+    </a>
+    <a target="_blank" href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" />
+    </a>
+    <a target="_blank" href="https://www.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
+    </a>
+        <a target="_blank" href="https://www.apple.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=apple" alt="Apple" />
     </a>
     <a target="_blank" href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
@@ -104,6 +129,21 @@ Here are some of the technologies I work with. My toolkit is continuously evolvi
     </a>
     <a target="_blank" href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" />
+    </a>
+    <a target="_blank" href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=md" alt="Markdown" />
+    </a>
+    <a target="_blank" href="https://regexr.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=regex" alt="Regex" />
+    </a>
+    <a target="_blank" href="https://stackoverflow.com/questions" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stackoverflow" />
+    </a>
+    <a target="_blank" href="https://vercel.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
+    </a>
+    <a target="_blank" href="https://webflow.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=webflow" alt="webflow" />
     </a>
     <a target="_blank" href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" />
