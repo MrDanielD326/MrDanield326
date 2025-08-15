@@ -209,6 +209,9 @@ A snapshot of my coding activity across repositories highlighting my contributio
 I'm always open to exploring new opportunities, engaging in meaningful collaborations, or discussing innovative ideas in technology. Feel free to connect or reach out anytime.
 
 <p>
+    <a target="_blank" href="https://www.instagram.com/accounts/login/?next=%2Fmr__daniel__d%2F&source=omni_redirect">
+        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+    </a>
     <a target="_blank" href="https://www.linkedin.com/in/danield326">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
     </a>
@@ -216,7 +219,7 @@ I'm always open to exploring new opportunities, engaging in meaningful collabora
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
     </a>
     <a target="_blank" href="https://drive.google.com/file/d/1UeHsXXFcKj7D6UxKI2GllBu1OIlqF53M/view">
-        <img src="https://img.icons8.com/?size=100&id=23877&format=png&color=000000" alt="Resume" height="45" />
+        <img src="https://icon-library.com/images/resume-icon/resume-icon-16.jpg" alt="Resume" height="45" />
     </a>
 </p>
 
