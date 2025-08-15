@@ -35,6 +35,9 @@ Here are some of the technologies I work with. My toolkit is continuously evolvi
     <a target="_blank" href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
     </a>
+    <a target="_blank" href="https://threejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" />
+    </a>
     <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
     </a>
