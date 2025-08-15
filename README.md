@@ -107,7 +107,4 @@ Here are some of the technologies I work with. My toolkit is continuously evolvi
   <a href="mailto:daniel.elohi326@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="tel:+917259041077">
-    <img src="https://img.shields.io/badge/📞 Phone-A3B4FA?style=for-the-badge&logo=phone&logoColor=white" />
-    </a>
 </p>
