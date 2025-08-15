@@ -4,10 +4,10 @@
 
 <p align="center">
   <a href="https://daniel-d-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit%20Now-blueviolet?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blueviolet?style=for-the-badge" />
   </a>
   <a href="https://drive.google.com/file/d/1UeHsXXFcKj7D6UxKI2GllBu1OIlqF53M/view">
-    <img src="https://img.shields.io/badge/Resume-Download-purple?style=for-the-badge&logo=google-drive" />
+    <img src="https://img.shields.io/badge/Resume-View-purple?style=for-the-badge&logo=google-drive" />
   </a>
 </p>
 
