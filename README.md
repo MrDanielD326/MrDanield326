@@ -6,7 +6,7 @@
   <a href="https://daniel-d-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blueviolet?style=for-the-badge" />
   </a>
-  <a href="https://drive.google.com/file/d/1UeHsXXFcKj7D6UxKI2GllBu1OIlqF53M/view">
+  <a href="https://drive.google.com/file/d/12SwrlHaWXVCRBJ9cYC65oItXtW78Ztqe/view">
     <img src="https://img.shields.io/badge/Resume-View-purple?style=for-the-badge&logo=google-drive" />
   </a>
 </p>
